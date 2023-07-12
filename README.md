@@ -4,6 +4,7 @@ Data was obtained from https://github.com/duyet/skill2vec-dataset and https://ww
 - Analyzed job description big data using PySpark in Databricks
 - Replaced invalid data by using regular expression and restructed data
   e.g., Regular expression
+  
   ![pyspark-job-description-analysis1](https://github.com/youngmin-jin/pyspark-job-description-analysis/assets/135728064/d3706154-3746-46c6-8f82-3ef47221acf6)
   
 - Obtained top 10 frequencies of required skills, most frequent numbers of skills, and joined with other job data.
